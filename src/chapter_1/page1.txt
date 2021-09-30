@@ -7,3 +7,5 @@ whole name: page1.txt
 created a new project
 created a new package called chapter 1
 created a new text file called page 1
+
+new lines new lines  
